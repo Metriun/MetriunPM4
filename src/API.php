@@ -52,8 +52,8 @@ class API {
 			}
 
 			return json_decode($err, true);
-		} else {
-			return json_decode($response, true);
 		}
+
+		return json_decode($response, true);
 	}
 }
