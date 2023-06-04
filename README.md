@@ -15,9 +15,9 @@
 
 ## About The Project
 
-Somos uma plataforma de análise onde você pode facilmente integrar seu servidor de minecraft em pocketmine conosco através de nosso plugin. Visite-nos em https://metriun.com
+We are an analytics platform where you can easily integrate your pocketmine minecraft server with us through our plugin. Visit us at https://metriun.com
 
-Conecte facilmente seu servidor à nossa plataforma e aproveite todos os benefícios. Temos um método otimizado onde irá consulmir pouco desempenho do servidor.
+Easily connect your server to our platform and enjoy all the benefits. We have an optimized method which will consume little server performance.
 <br>
 <br>
 
